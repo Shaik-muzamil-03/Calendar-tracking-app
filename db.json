@@ -36,5 +36,18 @@
       "mandatory-flag": true,
       "id": "e89c"
     }
+  ],
+  "user-companies": [
+    {
+      "id": "1d82",
+      "name": "Capgemini",
+      "all-communications": [
+        {
+          "communication-type": "linkedInPost",
+          "date": "01-01-2025",
+          "notes": "some notes"
+        }
+      ]
+    }
   ]
 }
