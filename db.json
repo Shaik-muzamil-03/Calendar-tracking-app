@@ -1,0 +1,40 @@
+{
+  "companies": [
+    {
+      "name": "Shaik Muzamil",
+      "emails": [
+        "shaikmuzammilbasha03@gmail.com",
+        "shaikmuzammilbasha@gmail.com"
+      ],
+      "location": "Bangalore",
+      "ph-numbers": [
+        "9676135628"
+      ],
+      "comments": "Good",
+      "communication-periodicity": 1,
+      "id": "3367"
+    },
+    {
+      "id": "ef0c",
+      "name": "Shaik Muzamil Basha",
+      "emails": [
+        "shaikmuzammilbasha03@gmail.com"
+      ],
+      "location": "Bangalore",
+      "ph-numbers": [
+        "9676135628"
+      ],
+      "comments": "Good",
+      "communication-periodicity": 1
+    }
+  ],
+  "communication": [
+    {
+      "name": "Visit",
+      "description": "To Office premises",
+      "sequence": 1,
+      "mandatory-flag": true,
+      "id": "e89c"
+    }
+  ]
+}
